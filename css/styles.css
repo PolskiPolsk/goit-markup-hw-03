@@ -33,7 +33,6 @@ color:#2e2f42;
 display: flex;
 gap: 40px;
 
-gap: 24px;
 }
 .list.link:hover,
 .list.link:focus {
@@ -175,6 +174,10 @@ address{
 }
 .section-two{
     padding: 120px 0;
+}
+.section-two.list{
+    gap: 24px;
+    
 }
 .section-three{
     padding-bottom: 120px;
