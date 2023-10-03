@@ -178,13 +178,14 @@ address{
 .section-two{
     padding: 120px 0;
 }
-
-.section-three{
-    padding-bottom: 120px;
-}
 .list-strategy{
     gap: 24px;
 }
 .firstpoint{
-    width:auto;
+    width: 18px;
+}
+
+
+.section-three {
+    padding-bottom: 120px;
 }
