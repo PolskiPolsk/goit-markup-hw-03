@@ -15,7 +15,7 @@ body {
     text-transform: uppercase;
     color: #4d5ae5;
     margin-right: 76px;
-    gap: 40px;
+    
 }
 .link{
     text-decoration: none;
@@ -30,6 +30,8 @@ font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
 color:#2e2f42;
+display: flex;
+gap: 40px;
 }
 .list.link:hover,
 .list.link:focus {
@@ -43,7 +45,7 @@ address{
     font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
-        display: flex;
+        
         
 
 }
@@ -151,7 +153,7 @@ section{
 .conteiner{ 
     display: flex;
 }
-.conteiner-one{
+.header-one-conteiner{
     width: 1158px;
     margin:0 auto;
     padding:0 15px 0 15px;
