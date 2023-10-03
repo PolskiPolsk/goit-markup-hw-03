@@ -92,7 +92,8 @@ address{
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
-    gap:24px;
+    margin-bottom: 8px;
+    
 }
 .business{
     font-size: 16px;
@@ -175,6 +176,9 @@ address{
 }
 .section-two{
     padding: 120px 0;
+}
+.strategy{
+    width: calc((100% - 72px) / 4);
 }
 .section-three{
     padding-bottom: 120px;
