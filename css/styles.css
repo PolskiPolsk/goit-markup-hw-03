@@ -177,9 +177,10 @@ address{
 .section-two{
     padding: 120px 0;
 }
-.strategy{
-    width: calc((100% - 72px) / 4);
-}
+
 .section-three{
     padding-bottom: 120px;
+}
+.list-section-two{
+    gap: 24px;
 }
