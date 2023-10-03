@@ -185,9 +185,6 @@ address{
 .list-strategy{
     gap: 24px;
 }
-.strategy{
-width: 12px;
-}
-.heading-terms{
-visibility: hidden;
+.firstpoint{
+    width:auto;
 }
