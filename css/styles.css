@@ -184,3 +184,6 @@ address{
 .list-strategy{
     gap: 24px;
 }
+.strategy{
+width: calc((100% - 72px) / 4);
+}
