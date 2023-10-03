@@ -146,14 +146,14 @@ section{
     color:#F4F4FD;
     letter-spacing: 0.02em;
 }
-.header-one{
+.page-header{
     border-bottom: 1px solid #e7e9fc;
     
 } 
-.conteiner{ 
+.container{ 
     display: flex;
 }
-.conteinerheader-one{
+.container-one{
     width: 1158px;
     margin:0 auto;
     padding:0 15px 0 15px;
