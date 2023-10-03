@@ -92,6 +92,7 @@ address{
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
+    gap:24px;
 }
 .business{
     font-size: 16px;
@@ -177,7 +178,4 @@ address{
 }
 .section-three{
     padding-bottom: 120px;
-}
-.list-section-two{
-    gap: 24px;
 }
