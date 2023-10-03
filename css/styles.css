@@ -54,8 +54,9 @@ address{
     color: #404bbf;
 
 }
-section{
+.section{
     background-color: #2e2f42;
+    padding: 188px 0;
 }
 .solution{
     font-size: 56px;
