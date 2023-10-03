@@ -93,6 +93,7 @@ address{
     line-height: 1.2;
     letter-spacing: 0.02em;
     margin-bottom: 8px;
+    visibility: hidden;
     
 }
 .business{
@@ -185,5 +186,5 @@ address{
     gap: 24px;
 }
 .strategy{
-width:calc((100%-72px)/4);
+width: 12px;
 }
