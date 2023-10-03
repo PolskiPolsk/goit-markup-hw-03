@@ -171,3 +171,9 @@ address{
     display:flex;
     align-items: center;
 }
+.section-two{
+    padding: 120px 0;
+}
+.section-three{
+    padding-bottom: 120px;
+}
