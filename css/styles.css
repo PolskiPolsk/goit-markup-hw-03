@@ -23,11 +23,11 @@ img{
 .link{
     text-decoration: none;
     padding: 24px 0%;
-    display: inline-block;
-    margin-bottom: 16px;
+    
 }
 .link-block{
 display: inline-block;
+margin-bottom: 16px;
 }
 span{
     color:#2e2f42;
