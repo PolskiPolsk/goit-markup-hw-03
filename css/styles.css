@@ -221,3 +221,12 @@ address{
 .container-worker{
     padding: 32px 0px;
 }
+.sectionforportfolio{
+    padding-top: 96px;
+    padding-bottom: 120px;
+}
+.list-portfolio{
+    justify-content: center;
+    gap: 24px;
+    margin-bottom: 72px
+}
