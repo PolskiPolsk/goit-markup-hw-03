@@ -194,7 +194,7 @@ address{
     gap: 24px;
 }
 .list-firstpoint{
-    width: calc((100%-72px)/4);
+   width:calc((100% - 72px) / 4);
 }
 
 
