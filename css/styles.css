@@ -193,7 +193,7 @@ address{
 .list-strategy{
     gap: 24px;
 }
-.list-firstpoint{
+.firstpoint{
    width:calc((100% - 72px) / 4);
 }
 
