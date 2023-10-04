@@ -235,3 +235,8 @@ address{
     gap: 24px;
     margin-bottom: 72px
 }
+.list-of-apss{
+    flex-wrap: wrap;
+    column-gap: 24px;
+    row-gap: 48px;
+}
