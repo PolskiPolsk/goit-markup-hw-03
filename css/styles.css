@@ -135,11 +135,16 @@ address{
     color: #4d5ae5;
     background-color: #F4F4FD;
     cursor: pointer;
+    padding: 12px 24px;
+    border: 1px solid #e7e9fc;
+    border-radius: 4px;
+
 }
 .filter-button:hover,
 .filter-button:focus{
  color: #FFFFFF;
  background-color: #404BBF;
+ border: 1px solid transparent;
 }
 .bankingapp{
     font-weight: 500;
