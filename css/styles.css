@@ -18,13 +18,16 @@ img{
     text-transform: uppercase;
     color: #4d5ae5;
     margin-right: 76px;
-    display: inline-block;
+    
 }
 .link{
     text-decoration: none;
     padding: 24px 0%;
     display: inline-block;
     margin-bottom: 16px;
+}
+.link-block{
+display: inline-block;
 }
 span{
     color:#2e2f42;
