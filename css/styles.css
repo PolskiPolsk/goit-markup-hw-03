@@ -18,7 +18,7 @@ img{
     text-transform: uppercase;
     color: #4d5ae5;
     margin-right: 76px;
-    
+    display: inline-block;
 }
 .link{
     text-decoration: none;
