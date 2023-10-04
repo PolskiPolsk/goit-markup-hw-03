@@ -109,6 +109,7 @@ address{
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: #2e2f42;
+    margin-bottom: 72px;
 }
 .sectionourteam{
     background-color: #F4F4FD;
@@ -200,4 +201,10 @@ address{
 
 .section-three {
     padding-bottom: 120px;
+}
+.list-whatwedo{
+    gap: 24px;
+}
+.whatwedo-photos{
+    width: calc((100% - 48px) / 3);
 }
