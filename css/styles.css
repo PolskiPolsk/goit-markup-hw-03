@@ -23,6 +23,8 @@ img{
 .link{
     text-decoration: none;
     padding: 24px 0%;
+    display: inline-block;
+    margin-bottom: 16px;
 }
 span{
     color:#2e2f42;
@@ -165,6 +167,7 @@ address{
 }
 .footer{
     background-color: #2e2f42;
+    padding: 100px 0;
     
 }
 .studio-footer{
@@ -174,6 +177,7 @@ address{
     line-height: 1.5;
     color:#F4F4FD;
     letter-spacing: 0.02em;
+    max-width: 264px;
 }
 .page-header{
     border-bottom: 1px solid #e7e9fc;
