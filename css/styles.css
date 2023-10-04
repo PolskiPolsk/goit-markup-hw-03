@@ -110,9 +110,11 @@ address{
     text-transform: capitalize;
     color: #2e2f42;
     margin-bottom: 72px;
+    
 }
 .sectionourteam{
     background-color: #F4F4FD;
+    padding: 120px;
 }
 
 .mark{
@@ -207,4 +209,7 @@ address{
 }
 .whatwedo-photos{
     width: calc((100% - 48px) / 3);
+}
+.list-ourteam{
+    gap: 24px
 }
