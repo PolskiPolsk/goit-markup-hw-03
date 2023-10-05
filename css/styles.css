@@ -79,17 +79,17 @@ address{
 .section{
     background-color: #2e2f42;
     padding: 188px 0;
+}
 
+.effective {
+        justify-content: center;
+        flex-direction: column;
+        align-items: center;
+        gap: 48px;
+    
 }
-.pedal{
-justify-content: center;
-flex-direction: column;
-align-items: center;
-gap: 48px;
-}
-.pedaly{
-    flex-direction: column;
-}
+
+
 
 .solution{
     font-size: 56px;
@@ -144,11 +144,19 @@ gap: 48px;
     text-transform: capitalize;
     color: #2e2f42;
     margin-bottom: 72px;
-    
+}
+.screens{
+    flex-direction: column;
+    align-items: center;
+    padding: auto;
 }
 .sectionourteam{
     background-color: #F4F4FD;
     padding: 120px 0;
+}
+.studioteam {
+    flex-direction: column;
+
 }
 
 .mark{
@@ -224,6 +232,11 @@ gap: 48px;
 .section-two{
     padding: 120px 0;
 }
+.aplications{
+    flex-wrap: wrap;
+    justify-content: center;
+    
+}
 .visually-hidden{
     position: absolute;
     width: 1px;
@@ -268,7 +281,8 @@ gap: 48px;
 .list-portfolio{
     justify-content: center;
     gap: 24px;
-    margin-bottom: 72px
+    margin-bottom: 72px;
+   
 }
 .list-of-apss{
     flex-wrap: wrap;
