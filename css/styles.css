@@ -31,9 +31,7 @@ img{
     padding: 24px 0%;
     
 }
-.link-block{
-margin-bottom: 16px;
-}
+
 span{
     color:#2e2f42;
 }
@@ -253,7 +251,6 @@ address{
     margin-bottom: 72px
 }
 .list-of-apss{
-    display: flex;
     flex-wrap: wrap;
     column-gap: 24px;
     row-gap: 48px;
@@ -266,4 +263,15 @@ address{
     padding: 32px 16px;
     border: 1px solid #e7e9fc;
     border-top: none;
+}
+.logo-footer{
+margin-bottom: 16px;
+display: inline-block;
+font-family: 'Raleway', sans-serif;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
 }
