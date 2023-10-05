@@ -256,8 +256,7 @@ address{
     flex-wrap: wrap;
     column-gap: 24px;
     row-gap: 48px;
-    margin: 0;
-    padding: 0;
+    display:flex;
 }
 .porfolio-phone-app{
     width: calc((100% - 48px) / 3);
