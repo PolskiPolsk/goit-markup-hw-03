@@ -55,11 +55,15 @@ address{
     font-style: normal; 
 
 }
-.address{
+.allincontainer{
     margin-left: auto;
     align-items: center;
     padding: 24px 0;
     display: flex;
+}
+.address{
+      margin-left: auto;
+    align-items: center;
 }
 
 .menu{
@@ -87,7 +91,7 @@ address{
         flex-direction: column;
         align-items: center;
         gap: 48px;
-    
+    display: flex;
 }
 
 
