@@ -253,10 +253,11 @@ address{
     margin-bottom: 72px
 }
 .list-of-apss{
+    display: flex;
     flex-wrap: wrap;
     column-gap: 24px;
     row-gap: 48px;
-    display:flex;
+    
 }
 .porfolio-phone-app{
     width: calc((100% - 48px) / 3);
