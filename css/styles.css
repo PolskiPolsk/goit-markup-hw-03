@@ -28,7 +28,7 @@ img{
 }
 .link{
     text-decoration: none;
-    
+   
     
 }
 
@@ -53,7 +53,14 @@ padding: 24px 0;
 }
 address{
     font-style: normal; 
+
 }
+.address{
+    margin-left: auto;
+    align-items: center;
+    padding: 24px 0;
+}
+
 .menu{
     color: #434455;
     font-size: 16px;
@@ -72,7 +79,18 @@ address{
 .section{
     background-color: #2e2f42;
     padding: 188px 0;
+
 }
+.pedal{
+justify-content: center;
+flex-direction: column;
+align-items: center;
+gap: 48px;
+}
+.pedaly{
+    flex-direction: column;
+}
+
 .solution{
     font-size: 56px;
     line-height: 1.07;
@@ -80,6 +98,7 @@ address{
     letter-spacing: 0.02em;
     color: #ffffff;
     max-width: 496px;
+    
 }
 .button{
     background-color: #4D5AE5;
